@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Front-end developoment/maintenance projects
 - 📫 How to reach me: DM me
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: This is my umpteenth time to learn
+- ⚡ Fun fact: This is my umpteenth attempt to learn
 
 <!---
 santony2/santony2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
